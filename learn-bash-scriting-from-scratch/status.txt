@@ -1,0 +1,9 @@
+last logged in users:
+
+wtmp begins Thu Jul 19 08:35:25 2018
+
+System uptime:
+  05:29:14 up 45 min,  0 users,  load average: 0.03, 0.09, 0.04
+
+Date:
+ Fri Jan 11 05:29:14 UTC 2019
